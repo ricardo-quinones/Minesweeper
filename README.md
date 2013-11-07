@@ -1,7 +1,7 @@
 Minesweeper
 ===========
 
-This is a throwback to my youth, my homage to a classic: Minesweeper!
+This is a throwback to my youth, an homage to a classic: Minesweeper!
 
 ##Features
 * multiple games
