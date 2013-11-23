@@ -12,3 +12,4 @@ This is a throwback to my youth, an homage to a classic: Minesweeper!
 * keeping time
 * saving fastest times
 * make it less easy to cheat
+* ability to use right click
